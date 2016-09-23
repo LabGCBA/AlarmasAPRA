@@ -1,0 +1,9 @@
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\bin\Debug\Alarma.exe.config
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\bin\Debug\Alarma.exe
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\bin\Debug\Alarma.pdb
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\obj\Debug\Alarma.Form1.resources
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\obj\Debug\Alarma.exe
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\Alarma\Alarma\obj\Debug\Alarma.pdb
